@@ -10,7 +10,7 @@ language: "en"
 latitude: "51.3440982"
 longitude: "-0.191824"
 humandate: "Mon 14 Oct"
-humantime: "9am-5pm"
+humantime: "10am-4pm"
 startdate: 2024-10-07
 enddate: 2024-10-07
 instructor: ["Mansoor Saqi","Marwan Bourdim"]
