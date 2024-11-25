@@ -14,7 +14,7 @@ humantime: "9am-5pm"
 startdate: 2024-10-07
 enddate: 2024-10-07
 instructor: ["Mansoor Saqi","Marwan Bourdim"]
-helper: ["Rachel Alcraft"]
+helper: ["Rachel Alcraft", "Stacy Shcherbakova"]
 email: [""]
 collaborative_notes:  
 eventbrite:           
